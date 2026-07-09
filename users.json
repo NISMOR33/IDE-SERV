@@ -8,6 +8,11 @@
       "email": "mateobrosillon@gmail.com",
       "role": "admin",
       "password": "$2b$10$JCeLCO2zqFkP2QVEp.R42.fgSBU7g5zjtCnYGRjAhB729lnXJQYPa"
+    },
+    {
+      "email": "test@gmail.com",
+      "role": "user",
+      "password": "$2b$10$dTPPDV6fTJCKxbaLA3a8DuSt60cmqn/gCQmU4noWMFwQsmLKtFta."
     }
   ]
 }
