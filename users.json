@@ -5,16 +5,6 @@
       "role": "admin"
     },
     {
-      "email": "mateobrosillon@gmail.com",
-      "role": "admin",
-      "password": "$2b$10$UGQk0FwDJTJtNcHapceV8uLQqYLvWJOXooqwmEpU6rChXTrdgmpCW",
-      "clientToken": "883ae82539f0d5fbc3a7f4d297f40e1f05bcac607534485d033019829d592969",
-      "tokenCreatedAt": "2026-07-09T15:32:21.409Z",
-      "updatedAt": "2026-07-10T08:47:09.912Z",
-      "googleId": "101429054256362356721",
-      "picture": "https://lh3.googleusercontent.com/a/ACg8ocLZoDuSOJLOAAWY7adUNGTCQyDvDkkROvYOkcV93DOCCGon62YS=s96-c"
-    },
-    {
       "email": "test@gmail.com",
       "role": "user",
       "password": "$2b$10$dTPPDV6fTJCKxbaLA3a8DuSt60cmqn/gCQmU4noWMFwQsmLKtFta."
