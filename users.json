@@ -16,6 +16,11 @@
       "email": "test@gmail.com",
       "role": "user",
       "password": "$2b$10$dTPPDV6fTJCKxbaLA3a8DuSt60cmqn/gCQmU4noWMFwQsmLKtFta."
+    },
+    {
+      "email": "ide.cpp.py@gmail.com",
+      "role": "user",
+      "googleId": "107835594039933966342"
     }
   ]
 }
