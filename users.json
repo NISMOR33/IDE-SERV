@@ -18,7 +18,8 @@
       "email": "mateobrosillon@gmail.com",
       "role": "user",
       "googleId": "101429054256362356721",
-      "picture": "https://lh3.googleusercontent.com/a/ACg8ocLZoDuSOJLOAAWY7adUNGTCQyDvDkkROvYOkcV93DOCCGon62YS=s96-c"
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocLZoDuSOJLOAAWY7adUNGTCQyDvDkkROvYOkcV93DOCCGon62YS=s96-c",
+      "password": "$2b$10$yWQWIfCZftrCe7FhcLBDQ.29dkqXMwybm9C/X4.AnmVwAWXLj4EQO"
     }
   ]
 }
